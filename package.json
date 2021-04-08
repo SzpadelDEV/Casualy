@@ -1,0 +1,42 @@
+{
+    "name": "Manager",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scirpts": {
+        "dev": "node index.js",
+        "dev:watch": "nodemon index,js",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "remu",
+    "license": "isc",
+    "dependencies": {
+        "@discordjs/opus": "^0.3.3",
+        "@k3rn31p4nic/google-translate-api": "^1.1.1",
+        "ascii": "^1.0.0",
+        "ascii-table": "0.0.9",
+        "axios": "^0.21.0",
+        "canvacord": "^5.0.8",
+        "chalk": "^4.1.0",
+        "common-tags": "^1.8.0",
+        "discord.js": "^12.5.1",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "fs": "0.0.1-security",
+        "merge-options": "^3.0.3",
+        "mongoose": "^5.10.16",
+        "ms": "^2.1.2",
+        "node-fetch": "^2.6.1",
+        "opusscript": "0.0.7",
+        "os": "^0.1.1",
+        "parse-ms": "^2.1.0",
+        "path": "^0.12.7",
+        "reconlx": "^1.0.45",
+        "simple-youtube-api": "^5.2.1",
+        "snakecord": "0.0.6",
+        "spotify-url-info": "^2.0.0",
+        "start": "^5.1.0",
+        "table": "^6.0.3"
+      
+    }
+}
