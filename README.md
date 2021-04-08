@@ -2,7 +2,7 @@
 
 ### INFO
 
-no elo to kolejny pliki jakieś bota od Szpadla 
+no elo to kolejny pliki jakieś bota od Szpadla tyn razen to pliki Casualy Manager
 
 
 ### strona
